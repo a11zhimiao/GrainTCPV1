@@ -4,9 +4,9 @@
 // =============================================================================
 
 // --- 基础账号与网络配置 ---
-let UUID = "06b65903-406d-4a41-8463-6fd5c0ee7798"; //修改可用的uuid
-const WEB_PASSWORD = "abc";  //修改你的登录密码
-const SUB_PASSWORD = "123456";  //修改你的订阅密码
+let UUID = "a8d6398a-b33c-4225-9f38-866750447afe"; //修改可用的uuid
+const WEB_PASSWORD = "wq1314520";  //修改你的登录密码
+const SUB_PASSWORD = "123456789";  //修改你的订阅密码
 const SUB_TOKEN = "";  //ST裂变Token，留空不启用，支持环境变量 SUB_TOKEN 覆盖
 const DEFAULT_PROXY_IP = 'Pro'+'xy'+'IP.US.CM'+'Liu'+'ssss.net'; //单个proxyip socks5 http
 const DEFAULT_SUB_DOMAIN = 'https://owo.o00o.ooo/'; //单个sub优选订阅
